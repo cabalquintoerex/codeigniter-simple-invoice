@@ -1,0 +1,78 @@
+/*
+***************************************************************
+Script : 
+Version : 
+Date :
+Author : Erex S. Cabalquinto
+Email : cabalquintoerex@gmail.com
+Description : 
+***************************************************************
+*/
+/* 
+    Created on : July 20, 2021, 2:08:54 PM
+    Author     : erexcabalquinto
+*/
+.color-grey{
+    background-color: #F7F7F7;
+}
+
+.navbar {
+  box-shadow: 0 2px 2px rgba(0,0,0,0.05), 0 1px 0 rgba(0,0,0,0.05);
+}
+.navbar-nav {
+    float: right;
+}
+
+body{
+    min-width: 600px;
+    overflow-x: auto;
+}
+.hometile{
+	padding-bottom: 23px;
+}
+.info-box-3{
+	border-radius: 14px;
+}                 
+p, span, a, ul, li, button {
+    font-family: inherit;
+    font-size: inherit;
+	font-weight: inherit;
+	line-height: inherit;
+}
+
+strong {
+	font-weight: 600;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Open Sans', "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serify;
+	line-height: 1.5em;
+	font-weight: 300;	
+}
+strong {
+  font-weight: 400;
+}
+.tile {  
+    width: 100%;
+    display: inline-block;
+	box-sizing: border-box;
+	background: #fff;		
+	padding: 20px;
+	margin-bottom: 30px;
+}
+.title {
+    	margin-top: 0px;
+}
+.box.box-primary {
+    border-top-color: #00a65a30;
+}
+.add{
+    margin-right: 8px;
+    width: 93px;
+}
+#myResponDeptLabel{
+	color: red;
+}
+
+
+        
